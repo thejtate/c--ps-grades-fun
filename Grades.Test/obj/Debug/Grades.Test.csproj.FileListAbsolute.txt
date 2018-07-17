@@ -1,0 +1,2 @@
+X:\cs-projects\Grades\Grades.Test\obj\Debug\Grades.Test.csprojAssemblyReference.cache
+X:\cs-projects\Grades\Grades.Test\obj\Debug\Grades.Test.csproj.CoreCompileInputs.cache
